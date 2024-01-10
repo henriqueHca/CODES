@@ -10,7 +10,8 @@ body {
     display: none;
 }
 
-a, input[type="submit"] {
+a,
+input[type="submit"] {
     background-color: #007BFF;
     color: #fff;
     padding: 10px 20px;
@@ -45,4 +46,17 @@ form label {
 form input,
 form textarea {
     padding: 5px;
+}
+
+footer {
+   
+    padding: 15px;
+    background-color: gray;
+    width: 100%;
+    text-align: center;
+}
+
+footer a {
+    background-color: black;
+    margin: 5px;
 }
