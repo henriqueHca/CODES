@@ -147,3 +147,20 @@ button:hover {
 .high {
     color: #db1912;
 }
+
+/* Footer */
+footer {
+    position: absolute;
+    padding: 15px;
+    background-color: gray;
+    width: 100%;
+    text-align: center;
+    height: 50px;
+    bottom: 0;
+}
+
+footer a {
+    color: black;
+    margin: 5px;
+    text-decoration: none;
+}
